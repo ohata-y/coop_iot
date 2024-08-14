@@ -29,5 +29,5 @@ deactivate
 ```
 
 ### 仮想環境を削除したい
-`environment_name`のファイルを削除してください。
+`environment_name`のフォルダを削除してください。
 

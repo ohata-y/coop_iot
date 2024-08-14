@@ -1,11 +1,12 @@
 coop_iot_env
 
-forms_0620.csv
-impression_of_c.csv
-impression_of_c_revised.csv
-final.csv
+data/
+
+images/
+
 forms.csv
 forms_cleaned.xlsx
+forms_imprsg_labeled.csv
 
 untrack_main.ipynb
 untrack_analysis.ipynb
