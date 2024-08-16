@@ -1,12 +1,4 @@
-coop_iot_env
-
+coop_iot_env/
 data/
-
+ignored_files/
 images/
-
-forms.csv
-forms_cleaned.xlsx
-forms_imprsg_labeled.csv
-
-untrack_main.ipynb
-untrack_analysis.ipynb
