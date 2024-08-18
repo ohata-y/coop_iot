@@ -4,7 +4,7 @@
 
 
 # 各フォルダについて
-`crowdedness_survey`：学食の込み具合についての調査\
+`crowdedness_survey`：学食の混雑度についての調査\
 `questionnaire`：生協の現状に対する調査
 
 
